@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=stanislavli3&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=stanislavli3&color=blue&style=flat-square)
 
 # i code with
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
