@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=stanislavli3&color=blue&style=flat-square)
 
-# i code with
+# in process...
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
