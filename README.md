@@ -11,3 +11,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Langchain](https://img.shields.io/badge/-Langchain-2196F3?style=for-the-badge)
+
+![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=stanislavli&theme=dark)
+
