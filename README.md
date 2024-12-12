@@ -2,7 +2,6 @@
 
 - education: lehigh university, b.s. in computer Science & business honors program
 - work experience: incoming tech solutions @ crowe, teaching assistant, ml research @ (nano human interfaces lab & computer vision lab) , vc.
-- current tech stack includes: python, c++, javascript, java
 - hobby: martial arts (boxing, judo(1st dan, black belt))
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
