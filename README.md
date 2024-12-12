@@ -1,9 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=stanislavli3&color=blue&style=flat-square)
 
-Education: Lehigh University, B.S. in Computer Science & Business Honors program
-Work experience: Incoming Tech Solutions @ Crowe, ML Research @ Lehigh Nano Human Interfaces Lab, VC.
-Current tech stack includes: Python, C++, Javascript, Java
-Hobby: Martial Arts (Boxing, Judo(1st Dan, Black Belt))
+- education: lehigh university, b.s. in computer Science & business honors program
+- work experience: incoming tech solutions @ crowe, teaching assistant, ml research @ (nano human interfaces lab & computer vision lab) , vc.
+- current tech stack includes: python, c++, javascript, java
+- hobby: martial arts (boxing, judo(1st dan, black belt))
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
