@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=stanislavli3&color=blue&style=flat-square)
 
-- education: lehigh university, b.s. in computer Science & business honors program
+- education: lehigh university, b.s. in computer science & business honors program
 - work experience: incoming tech solutions @ crowe, teaching assistant, ml research @ (nano human interfaces lab & computer vision lab) , vc.
 - hobby: martial arts (boxing, judo)
 
