@@ -2,7 +2,7 @@
 
 - education: lehigh university, b.s. in computer Science & business honors program
 - work experience: incoming tech solutions @ crowe, teaching assistant, ml research @ (nano human interfaces lab & computer vision lab) , vc.
-- hobby: martial arts (boxing, judo(1st dan, black belt))
+- hobby: martial arts (boxing, judo)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
